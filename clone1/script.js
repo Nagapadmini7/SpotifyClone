@@ -13,12 +13,12 @@ let songs = [
     {songName: "Stay with me", filePath: "songs/1.mp3", coverPath: "covers/1.jpeg"},
     {songName: "Everytime", filePath: "songs/2.mp3", coverPath: "covers/2.jpeg"},
     {songName: "Eight", filePath: "songs/3.mp3", coverPath: "covers/3.jpeg"},
-    {songName: "Make it right", filePath: "songs/4.mp3", coverPath: "covers/4.jpeg"},
-    {songName: "Love scenario", filePath: "songs/5.mp3", coverPath: "covers/5.jpeg"},
-    {songName: "Magic shop", filePath: "songs/6.mp3", coverPath: "covers/6.jpeg"},
-    {songName: "Spring Day", filePath: "songs/7.mp3", coverPath: "covers/7.webp"},
-    {songName: "Butterfly", filePath: "songs/8.mp3", coverPath: "covers/8.jpeg"},
-  
+    {songName: "Make it Right", filePath: "songs/4.mp3", coverPath: "covers/4.jpeg"},
+    {songName: "Love Scenario", filePath: "songs/5.mp3", coverPath: "covers/5.jpeg"},
+    {songName: "Magic Shop", filePath: "songs/2.mp3", coverPath: "covers/6.jpeg"},
+    {songName: "Spring day", filePath: "songs/2.mp3", coverPath: "covers/7.jpeg"},
+    {songName: "Butterfly", filePath: "songs/2.mp3", coverPath: "covers/8.jpeg"},
+    
 ]
 
 songItems.forEach((element, i)=>{ 
